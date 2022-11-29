@@ -1,5 +1,8 @@
 # onesixtyonewin
-OneSixtyOne ported to windows
+Attempt to port OneSixtyOne to windows
+
+
+Note: Lots of bugs, work in progress!
 
 
 
