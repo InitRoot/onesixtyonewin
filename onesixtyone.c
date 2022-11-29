@@ -7,7 +7,7 @@
 #include <sys/types.h>
 #include <errno.h>
 #include <io.h>
-#include <C:\Users\FransBotes\source\repos\onesixty\onesixty\getopt.h>
+#include <getopt.h>        //MAKE SURE THIS REF CORRECT
 #define WIN32_LEAN_AND_MEAN
 
 #include <winsock2.h>
