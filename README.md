@@ -2,7 +2,7 @@
 Attempt to port OneSixtyOne to windows
 
 
-Note: Lots of bugs, work in progress!
+Note: Lots of bugs, work in progress! Not in a working state at all. But hang in there...
 
 
 
